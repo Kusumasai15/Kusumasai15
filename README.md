@@ -1,5 +1,7 @@
 # Hi, I'm Kusuma 👋
 
+B.Tech AI-DS student passionate about the math behind machine learning and the stories hidden in data 🔍
+
 🎓 3rd-year B.Tech student in **AI & Data Science** at Alliance University
 📊 Interested in **Mathematics** and **Exploratory Data Analysis (EDA)**
 📚 Currently working through my core coursework and strengthening my ML fundamentals
