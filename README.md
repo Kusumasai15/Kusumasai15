@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Kusuma 👋
 
-<!--
-**Kusumasai15/Kusumasai15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year B.Tech student in **AI & Data Science** at Alliance University
+📊 Interested in **Mathematics** and **Exploratory Data Analysis (EDA)**
+📚 Currently working through my core coursework and strengthening my ML fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+**Languages & Libraries**
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+
+**Tools**
+`Jupyter Notebook` `VS Code`
+
+---
+
+### 🚀 Featured Project
+
+**[SafeRoute-AI](https://github.com/Kusumasai15/SafeRoute-AI)**
+An AI-based safer route recommendation system that suggests routes using crime risk, police proximity, and hospital proximity — built to help make everyday travel safer.
+
+---
+
+### 📖 Currently Learning
+Going deeper into my course materials — building a stronger foundation in maths and EDA before moving into more advanced ML topics.
+
+---
+
+<sub>📫 Reach me through GitHub</sub>
