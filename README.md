@@ -1,90 +1,109 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Kusumasai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%20%26%20Data%20Science)%20%7C%20Learning%20%7C%20Building%20Projects&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Kusumasai&fontSize=64&fontColor=00f5ff&animation=fadeIn&fontAlignY=36&desc=Building%20AI%20projects%20%7C%20Learning%20in%20public&descSize=20&descAlignY=58" width="100%" alt="Banner" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://github.com/Kusumasai15">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BTech+CSE+%7C+AI+%26+Data+Science;Learning+Python+step+by+step;Building+AI+projects+that+help+people;Always+curious.+Always+improving." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=BTech+CSE+%7C+AI+%26+Data+Science;Learning+Python+one+step+at+a+time;Building+SafeRoute-AI;Turning+ideas+into+real+projects" alt="Typing animation" />
   </a>
 </p>
 
+<!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kusumasai15&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Kusumasai15?label=Followers&style=for-the-badge&color=2c5364" alt="Followers" />
+  <img src="https://img.shields.io/badge/BTech-CSE%20AI%20%26%20DS-7b2ff7?style=for-the-badge" alt="BTech" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Open%20To-Learning%20%26%20Projects-00c6ff?style=for-the-badge" alt="Open to" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kusumasai15&label=Profile%20Views&color=7b2ff7&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 3rd year BTech student in **Computer Science (AI & Data Science)**
-- 🌱 Currently learning **Python** and how to turn ideas into real projects
-- 🚀 Working on **SafeRoute-AI**, a system that suggests safer travel routes
-- 🎯 Goal: build projects that solve real problems with AI
-- 💬 Ask me about: Python, AI, and starting out in tech
+I'm a 3rd year **BTech CSE (AI & Data Science)** student who loves the idea of building things that actually help people. I'm learning Python step by step and putting my projects here as I go.
+
+- 🔭 Currently building **SafeRoute-AI**, an AI system that suggests safer routes
+- 🌱 Currently learning **Python**, **Git** and **GitHub**
+- 🎯 Goal: build real AI projects that solve real problems
+- 💬 Ask me about: starting out in tech, Python, AI
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Skills" />
+**Using now**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Using now" />
 </p>
 
-> More icons will be added here as I learn new tools.
+**Learning next**
 
----
-
-## 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Kusumasai15/SafeRoute-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kusumasai15&repo=SafeRoute-AI&theme=aura" alt="SafeRoute-AI" />
-  </a>
-</p>
-
-**SafeRoute-AI** is an AI-based safer route recommendation system. It uses crime risk, police proximity and hospital proximity to suggest safer paths.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kusumasai15&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusumasai15&layout=compact&theme=aura&hide_border=false" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kusumasai15&theme=aura&hide_border=false" alt="GitHub streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,fastapi,react&theme=dark" alt="Learning next" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td>
+      <h3>🛡️ SafeRoute-AI</h3>
+      <p>An AI-based safer route recommendation system that uses <b>crime risk</b>, <b>police proximity</b> and <b>hospital proximity</b> to suggest safer paths.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI-Route%20Safety-7b2ff7?style=flat-square" alt="AI" />
+      </p>
+      <a href="https://github.com/Kusumasai15/SafeRoute-AI">
+        <img src="https://img.shields.io/badge/View%20Project-00c6ff?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗺️ My Journey
+
+```mermaid
+flowchart LR
+    A["🐍 Learn Python"] --> B["🛡️ Build SafeRoute-AI"]
+    B --> C["🤖 Learn Machine Learning"]
+    C --> D["🚀 Ship more projects"]
+```
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kusumasai15&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kusumasai15/Kusumasai15/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kusumasai15/Kusumasai15/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kusumasai15/Kusumasai15/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/Kusumasai15">
     <img src="https://img.shields.io/badge/GitHub-Kusumasai15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn below: replace YOUR-LINK with your real LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
-<!-- ================= FOOTER BANNER ================= -->
+<p align="center"><i>⭐ Thanks for stopping by. Let's build something great.</i></p>
+
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer" />
 </p>
-
-<p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
