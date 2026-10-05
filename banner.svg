@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="100%" stop-color="#7cffb2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+
+  <!-- danger zones (pulsing red) -->
+  <circle cx="250" cy="195" r="18" fill="#ff4d4d" opacity="0.25">
+    <animate attributeName="r" values="14;28;14" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.08;0.35" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="238" r="18" fill="#ff4d4d" opacity="0.25">
+    <animate attributeName="r" values="14;28;14" dur="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.08;0.35" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- safe route (dashed, flowing) -->
+  <path id="route" d="M 60 215 C 250 140, 380 250, 550 205 S 800 150, 940 215"
+        fill="none" stroke="#00f5ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 10" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- start pin -->
+  <circle cx="60" cy="215" r="9" fill="#ffffff"/>
+  <circle cx="60" cy="215" r="4" fill="#0f2027"/>
+
+  <!-- end pin (safe destination) -->
+  <circle cx="940" cy="215" r="10" fill="#7cffb2">
+    <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- travelling dot -->
+  <circle r="7" fill="#ffffff">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#route"/>
+    </animateMotion>
+  </circle>
+
+  <!-- name -->
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700" fill="url(#txt)" opacity="0">
+    Kusumasai
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="500" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="21" fill="#c9d1d9" opacity="0">
+    CSE (AI &amp; Data Science) | Building SafeRoute-AI
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="1s" fill="freeze"/>
+  </text>
+</svg>
