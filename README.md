@@ -1,107 +1,18 @@
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kusumasai15/Kusumasai15/main/banner.svg" width="100%" alt="Kusumasai banner" />
-</p>
+# 💫 About Me:
+👩‍💻 About Me<br><br>Hi, I'm Kusuma Sai Reddy, a B.Tech student specializing in Artificial Intelligence & Data Science.<br><br>I’m passionate about technology, problem-solving, and continuously improving my skills in Python, Data Science, Machine Learning, SQL, Cloud, and Software Development.<br><br>I enjoy learning how real-world systems work, exploring new technologies, and building a strong foundation in both programming and data-driven problem solving.<br><br>🎯 My goal is to grow into a skilled AI/Data professional and software engineer, contribute to meaningful technology, and work on challenging real-world problems.<br><br>🌱 Currently focused on:<br>- Strengthening Python and DSA<br>- Improving SQL and database skills<br>- Learning Machine Learning concepts<br>- Exploring Cloud and backend technologies<br>- Building stronger problem-solving and development skills<br><br>💡 Interests:<br>Artificial Intelligence • Data Science • Machine Learning • Python • Cloud • Software Development
 
-<!-- ================= TYPING ANIMATION ================= -->
-<p align="center">
-  <a href="https://github.com/Kusumasai15">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=BTech+CSE+%7C+AI+%26+Data+Science;Learning+Python+one+step+at+a+time;Turning+ideas+into+real+projects" alt="Typing animation" />
-  </a>
-</p>
 
-<!-- ================= BADGES ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/BTech-CSE%20AI%20%26%20DS-2c5364?style=for-the-badge" alt="BTech" />
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Building-SafeRoute--AI-00c6ff?style=for-the-badge" alt="Building" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-kusuma-sai-reddy-96325232a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddyskusumasai@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kusumasai15&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile views" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kusumasai15&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kusumasai15&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kusumasai15&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kusumasai15&icon=5&color=5)](https://visitcount.itsvg.in)
 
-## 👋 About Me
-
-I'm a 3rd year **BTech CSE (AI & Data Science)** student who loves the idea of building things that actually help people. I'm learning Python step by step and putting my projects here as I go.
-
-- 🔭 Currently building **SafeRoute-AI**, an AI system that suggests safer routes
-- 🌱 Currently learning **Python**, **Git** and **GitHub**
-- 🎯 Goal: build real AI projects that solve real problems
-- 💬 Ask me about: starting out in tech, Python, AI
-
----
-
-## 🛠️ Tech Stack
-
-**Using now**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Using now" />
-</p>
-
-**Learning next**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,fastapi&theme=dark" alt="Learning next" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-<table>
-  <tr>
-    <td>
-      <h3>🛡️ SafeRoute-AI</h3>
-      <p>An AI-based safer route recommendation system that uses <b>crime risk</b>, <b>police proximity</b> and <b>hospital proximity</b> to suggest safer paths.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AI-Route%20Safety-00c6ff?style=flat-square" alt="AI" />
-      </p>
-      <a href="https://github.com/Kusumasai15/SafeRoute-AI">
-        <img src="https://img.shields.io/badge/View%20Project-00c6ff?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🗺️ My Journey
-
-```mermaid
-flowchart LR
-    A["🐍 Learn Python"] --> B["🛡️ Build SafeRoute-AI"]
-    B --> C["🤖 Learn Machine Learning"]
-    C --> D["🚀 Ship more projects"]
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kusumasai15&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusumasai15&layout=compact&theme=aura&hide_border=false" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kusumasai15&theme=aura&hide_border=false" alt="GitHub streak" />
-</p>
-
-> The stats start small and grow as I commit more code.
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/Kusumasai15">
-    <img src="https://img.shields.io/badge/GitHub-Kusumasai15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><i>⭐ Thanks for stopping by. Let's build something great.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
