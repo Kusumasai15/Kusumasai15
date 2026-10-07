@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kusuma%20Sai%20Reddy&fontSize=48&fontAlignY=38&desc=B.Tech%20%E2%80%A2%20Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=60&animation=fadeIn)
+<img src="banner.svg" alt="Kusumasai banner" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+%7C+Data+Science+%7C+Machine+Learning;SQL+%7C+Cloud+%7C+Software+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Growing)](https://git.io/typing-svg)
 
