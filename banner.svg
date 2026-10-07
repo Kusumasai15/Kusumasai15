@@ -53,7 +53,7 @@
 
   <!-- subtitle -->
   <text x="500" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="21" fill="#c9d1d9" opacity="0">
-    CSE (AI &amp; Data Science) | Building SafeRoute-AI
+    CSE (AI &amp; Data Science) 
     <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="1s" fill="freeze"/>
   </text>
 </svg>
