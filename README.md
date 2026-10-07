@@ -6,7 +6,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://github.com/Kusumasai15">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=BTech+CSE+%7C+AI+%26+Data+Science;Learning+Python+one+step+at+a+time;Building+SafeRoute-AI;Turning+ideas+into+real+projects" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=BTech+CSE+%7C+AI+%26+Data+Science;Learning+Python+one+step+at+a+time;Turning+ideas+into+real+projects" alt="Typing animation" />
   </a>
 </p>
 
